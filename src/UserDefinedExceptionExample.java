@@ -1,4 +1,4 @@
-public class UserDefindeException {
+public class UserDefinedExceptionExample {
     public static void thrower(){
      try
     {
